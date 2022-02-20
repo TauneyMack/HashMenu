@@ -1,0 +1,9 @@
+110 Dominic 110.10
+103 Kalin 100.20
+170 Lee 170.30
+154 Kwak 150.40
+194 Anthony 190.50
+122 Laurel 120.60
+102 Lee 102.20
+113 Tauney 113.13
+160 Wang 160.60
